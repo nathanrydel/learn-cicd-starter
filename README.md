@@ -1,3 +1,5 @@
+![test coverage for repo](https://github.com/nathanrydel/learn-cicd-starter/actions/runs/20534711042/job/58991408292)
+
 # learn-cicd-starter (Notely)
 
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
